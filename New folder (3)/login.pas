@@ -43,9 +43,13 @@ uses UnitHome;
 
 procedure TFLogin.Rectangle3Click(Sender: TObject);
 begin
- if (edtKorisnik.Text = 'admin') and (edtLozinka.Text = '1234') then
+  if (edtKorisnik.Text = 'admin') and (edtLozinka.Text = '1234')
+
+  then
+
   begin
     frmHome := TfrmHome.Create(nil);
+    Application.MainForm := frmHome;
     frmHome.Show;
     Self.Close;
   end

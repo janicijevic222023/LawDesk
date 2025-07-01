@@ -51,7 +51,6 @@ type
 
 var
   frmHome: TfrmHome;
-
 implementation
 
 {$R *.fmx}

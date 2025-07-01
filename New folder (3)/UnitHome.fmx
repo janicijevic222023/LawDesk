@@ -1,6 +1,7 @@
 object frmHome: TfrmHome
-  Left = 930
-  Top = 30
+  Left = 882
+  Top = 0
+  BorderStyle = None
   Caption = 'Po'#269'etna strana'
   ClientHeight = 956
   ClientWidth = 440
@@ -8,19 +9,19 @@ object frmHome: TfrmHome
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
-  Left = 930
-  Top = 30
+  Left = 882
   DesignerMasterStyle = 0
   object Rectangle1: TRectangle
     Fill.Color = claWhite
     Size.Width = 440.000000000000000000
     Size.Height = 956.000000000000000000
     Size.PlatformDefault = False
+    Stroke.Kind = None
     object Rectangle2: TRectangle
       Fill.Color = claMidnightblue
       Position.Y = 191.000000000000000000
       Size.Width = 440.000000000000000000
-      Size.Height = 765.000000000000000000
+      Size.Height = 780.000000000000000000
       Size.PlatformDefault = False
       Stroke.Kind = None
       XRadius = 12.000000000000000000
@@ -337,7 +338,7 @@ object frmHome: TfrmHome
             TextSettings.Font.Size = 16.000000000000000000
             TextSettings.Font.StyleExt = {00060000000000000004000000}
             Text = 'Janka Veselinovica 15'
-            TabOrder = 5
+            TabOrder = 4
             object Label5: TLabel
               StyledSettings = [Family, FontColor]
               Position.Y = 208.000000000000000000
@@ -347,7 +348,7 @@ object frmHome: TfrmHome
               TextSettings.Font.Size = 16.000000000000000000
               TextSettings.Font.StyleExt = {00060000000000000004000000}
               Text = 'Slobode 4, Osnovni sud'
-              TabOrder = 4
+              TabOrder = 3
             end
           end
           object Label6: TLabel
@@ -359,7 +360,7 @@ object frmHome: TfrmHome
             TextSettings.Font.Size = 16.000000000000000000
             TextSettings.Font.StyleExt = {00060000000000000004000000}
             Text = '12:00h'
-            TabOrder = 4
+            TabOrder = 3
             object Label7: TLabel
               StyledSettings = [Family, FontColor]
               Position.Y = 96.000000000000000000
@@ -369,7 +370,7 @@ object frmHome: TfrmHome
               TextSettings.Font.Size = 16.000000000000000000
               TextSettings.Font.StyleExt = {00060000000000000004000000}
               Text = 'Ro'#269'i'#353'te u predmetu Suzane Milivojevi'#263
-              TabOrder = 5
+              TabOrder = 4
               object Label8: TLabel
                 StyledSettings = [Family, FontColor]
                 Position.Y = 160.000000000000000000
@@ -379,7 +380,7 @@ object frmHome: TfrmHome
                 TextSettings.Font.Size = 16.000000000000000000
                 TextSettings.Font.StyleExt = {00060000000000000004000000}
                 Text = 'Knjigovodstvena agencija MaxIn'
-                TabOrder = 5
+                TabOrder = 4
               end
               object Label9: TLabel
                 StyledSettings = [Family, FontColor]
@@ -390,7 +391,7 @@ object frmHome: TfrmHome
                 TextSettings.Font.Size = 16.000000000000000000
                 TextSettings.Font.StyleExt = {00060000000000000004000000}
                 Text = 'Sastanak sa Biljanom Jankovski'
-                TabOrder = 4
+                TabOrder = 3
               end
             end
             object Label10: TLabel
@@ -402,7 +403,7 @@ object frmHome: TfrmHome
               TextSettings.Font.Size = 16.000000000000000000
               TextSettings.Font.StyleExt = {00060000000000000004000000}
               Text = '12:00h'
-              TabOrder = 4
+              TabOrder = 3
               object Label11: TLabel
                 StyledSettings = [Family, FontColor]
                 Position.Y = 97.000000000000000000
@@ -412,7 +413,7 @@ object frmHome: TfrmHome
                 TextSettings.Font.Size = 16.000000000000000000
                 TextSettings.Font.StyleExt = {00060000000000000004000000}
                 Text = 'Uplatiti novac za doprinose'
-                TabOrder = 4
+                TabOrder = 3
                 object Label12: TLabel
                   StyledSettings = [Family, FontColor]
                   Position.Y = 208.000000000000000000
@@ -422,7 +423,7 @@ object frmHome: TfrmHome
                   TextSettings.Font.Size = 16.000000000000000000
                   TextSettings.Font.StyleExt = {00060000000000000004000000}
                   Text = 'Slobode 4, Osnovni sud'
-                  TabOrder = 4
+                  TabOrder = 3
                 end
               end
             end
