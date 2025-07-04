@@ -1,0 +1,258 @@
+object TfrmPelceri: TTfrmPelceri
+  Left = 708
+  Top = 0
+  BorderStyle = None
+  Caption = 'Form1'
+  ClientHeight = 956
+  ClientWidth = 440
+  Fill.Kind = Solid
+  Position = Designed
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  Left = 708
+  DesignerMasterStyle = 0
+  object Image5: TImage
+    MultiResBitmap.Height = 14
+    MultiResBitmap.Width = 20
+    MultiResBitmap = <
+      item
+        Width = 20
+        Height = 14
+        PNG = {
+          89504E470D0A1A0A0000000D49484452000000140000000E08060000002FC43C
+          F00000000473424954080808087C0864880000004149444154388D639C25AB76
+          9F81E1BF020315C07F0686074C0C8CD4300A0AA869D608068CE4C4F27F068607
+          E98F6F2B6293232F96476393A680AC58C6056892970197B7108476B4B7000000
+          000049454E44AE426082}
+        FileName = 'C:\Users\emark\OneDrive\Pictures\Screenshots\Hamburger Icon1.png'
+      end>
+    Cursor = crHandPoint
+    Position.X = 17.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Image6: TImage
+    MultiResBitmap.Height = 21
+    MultiResBitmap.Width = 20
+    MultiResBitmap.TransparentColor = 32768
+    MultiResBitmap = <
+      item
+        Width = 20
+        Height = 21
+        PNG = {
+          89504E470D0A1A0A0000000D494844520000001400000015080600000046D5CE
+          A80000000473424954080808087C086488000000ED49444154388DED94D11182
+          3010441F8E05600552021D48075A8225D00176400B7640096005DA0158017680
+          1F5CC6230609F0EBCEDC9039369BCD5DE6601A29D0023570F6E0FF440E7456E4
+          4B8422E02E02ADB84C95682D1C2F24226236C6D641B5FA974C8965CA45058423
+          EE0BC5CB5C42A145BA4C9D2C1CC32F502588F85CA3C5E31A0A27862588004A49
+          DC995168056DA844D95E2266101A9D401600818318F3DD9817F070703BBDE81C
+          04DD713B5C9D9D7468F2372B7F10973B17DF4770567EF3ED7C1DFE82EBB1059E
+          C09E7EDEB91E6C32B257E78FF26D603838D7466ADED2997E72B8E69F0F1AE00A
+          546F066B63A0C2DE07470000000049454E44AE426082}
+        FileName = 'C:\Users\emark\OneDrive\Pictures\Screenshots\Dashboard Icon1.png'
+      end>
+    Position.X = 288.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Image7: TImage
+    MultiResBitmap.Height = 22
+    MultiResBitmap.Width = 20
+    MultiResBitmap = <
+      item
+        Width = 20
+        Height = 22
+        PNG = {
+          89504E470D0A1A0A0000000D4948445200000014000000160806000000C041BC
+          060000000473424954080808087C086488000000F649444154388DCD94DB11C2
+          2010458F362025508225A4144AD00ED28176603AD10E122BD00EB403FD601112
+          C34BFDF0CE3004723959C22E1057031C800BF0006EC01130893551ED04126B17
+          407F026B83854AA20B23CE424D605E277C9DF88E39602FC64DC6A7E4A30FECBF
+          8E9A5C74256AC5BF0F2797C1B3DBE2B9103848AF63C05ADDA55731A09A184B81
+          AB18504B7F2D043A9F0E27436023FD4099EED2D4140AE334787B9950872F8091
+          8CBC3855C0C0EECAA5DAEB7034BE9C4C25106CB58CA2EC64E2F0010CC651EA85
+          0C7EA52DF812FAB6F5D41DE81FAAC39E7E236385BF7C9BD91519B974986BA9CB
+          3729832D459716A71CEC09BD8D5F81B97C2BC90000000049454E44AE426082}
+        FileName = 
+          'C:\Users\emark\OneDrive\Pictures\Screenshots\General Notificatio' +
+          'n Icon.png'
+      end>
+    Position.X = 336.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 31.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Image8: TImage
+    MultiResBitmap.Height = 21
+    MultiResBitmap.Width = 20
+    MultiResBitmap = <
+      item
+        Width = 20
+        Height = 21
+        PNG = {
+          89504E470D0A1A0A0000000D494844520000001400000015080600000046D5CE
+          A80000000473424954080808087C086488000000D049444154388DE594D11183
+          200C863F3B8123641447EA06BA49DDA06ED06EC208BA017D20A14AB58770D797
+          FE779C04938F048E4090000F6006FCC931037765445809680F2C00932E8C40CB
+          7989C67AAD3266274711196A2DCB4627004D0510E35C2A211FFA09B027A4DFAB
+          2D80D321073E1BD9B5A7B6AD0D2B7B38F0D970D21F06B0E0BD0C539FC8F9D35B
+          5E745EF2EC4CA2DF05C2FBF3C08DB2E7D76AAC27F485DD6EE392DD735A5BEC36
+          16342541005D26E8F9AD3A73EC57F3918A334E33184A4126C7BB94AE1606E12C
+          AE1436DC17F57E7C2CA43ECAFD0000000049454E44AE426082}
+        FileName = 
+          'C:\Users\emark\OneDrive\Pictures\Screenshots\Message Notificatio' +
+          'n Icon.png'
+      end>
+    Position.X = 387.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 30.000000000000000000
+    Size.Height = 25.000000000000000000
+    Size.PlatformDefault = False
+  end
+  object Rectangle3: TRectangle
+    Fill.Color = xFFC1C1C1
+    Position.X = -57.000000000000000000
+    Position.Y = 103.000000000000000000
+    Size.Width = 513.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 12.000000000000000000
+    YRadius = 12.000000000000000000
+    object Label6: TLabel
+      StyledSettings = [FontColor]
+      Position.X = 74.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 247.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Family = 'Times New Roman'
+      TextSettings.Font.Size = 40.000000000000000000
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+      Text = 'Pelceri'
+      TabOrder = 8
+    end
+  end
+  object Rectangle1: TRectangle
+    Fill.Color = claCrimson
+    Position.X = 56.000000000000000000
+    Position.Y = 248.000000000000000000
+    Size.Width = 335.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    XRadius = 17.000000000000000000
+    YRadius = 17.000000000000000000
+    object Label2: TLabel
+      StyledSettings = []
+      Position.X = 75.000000000000000000
+      Position.Y = 14.000000000000000000
+      Size.Width = 198.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 25.000000000000000000
+      TextSettings.Font.StyleExt = {00060000000000000004000000}
+      TextSettings.FontColor = claWhite
+      Text = 'Privredno pravo'
+      TabOrder = 10
+    end
+    object Rectangle2: TRectangle
+      Fill.Color = claCrimson
+      Position.Y = 120.000000000000000000
+      Size.Width = 335.000000000000000000
+      Size.Height = 65.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      XRadius = 17.000000000000000000
+      YRadius = 17.000000000000000000
+      object Label1: TLabel
+        StyledSettings = []
+        Position.X = 40.000000000000000000
+        Position.Y = 14.000000000000000000
+        Size.Width = 265.000000000000000000
+        Size.Height = 33.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 25.000000000000000000
+        TextSettings.Font.StyleExt = {00060000000000000004000000}
+        TextSettings.FontColor = claWhite
+        Text = 'Administrativno pravo'
+        TabOrder = 10
+      end
+      object Rectangle4: TRectangle
+        Fill.Color = claCrimson
+        Position.Y = 120.000000000000000000
+        Size.Width = 335.000000000000000000
+        Size.Height = 65.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        XRadius = 17.000000000000000000
+        YRadius = 17.000000000000000000
+        object Label3: TLabel
+          StyledSettings = []
+          Position.X = 80.000000000000000000
+          Position.Y = 14.000000000000000000
+          Size.Width = 198.000000000000000000
+          Size.Height = 33.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 25.000000000000000000
+          TextSettings.Font.StyleExt = {00060000000000000004000000}
+          TextSettings.FontColor = claWhite
+          Text = 'Ustavno pravo'
+          TabOrder = 10
+        end
+        object Rectangle5: TRectangle
+          Fill.Color = claCrimson
+          Position.Y = 120.000000000000000000
+          Size.Width = 335.000000000000000000
+          Size.Height = 65.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Kind = None
+          XRadius = 17.000000000000000000
+          YRadius = 17.000000000000000000
+          object Label4: TLabel
+            StyledSettings = []
+            Position.X = 70.000000000000000000
+            Position.Y = 14.000000000000000000
+            Size.Width = 217.000000000000000000
+            Size.Height = 33.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Size = 25.000000000000000000
+            TextSettings.Font.StyleExt = {00060000000000000004000000}
+            TextSettings.FontColor = claWhite
+            Text = 'Gra'#273'ansko pravo'
+            TabOrder = 10
+          end
+        end
+      end
+    end
+  end
+  object Rectangle6: TRectangle
+    Cursor = crHandPoint
+    Fill.Color = xFFC1C1C1
+    Position.Y = 896.000000000000000000
+    Size.Width = 440.000000000000000000
+    Size.Height = 60.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    OnClick = Rectangle6Click
+    object Nazad: TLabel
+      StyledSettings = [Family, FontColor]
+      Position.X = 197.000000000000000000
+      Position.Y = 12.000000000000000000
+      Size.Width = 52.000000000000000000
+      Size.Height = 33.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Size = 18.000000000000000000
+      TextSettings.Font.StyleExt = {00060000000000000004000000}
+      Text = 'Nazad'
+      TabOrder = 0
+    end
+  end
+end

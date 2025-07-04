@@ -1,0 +1,107 @@
+inherited frmHome_LgXhdpiPh: TfrmHome_LgXhdpiPh
+  ClientHeight = 720
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Rectangle1: TRectangle
+    Position.X = -8.000000000000000000
+    Position.Y = 8.000000000000000000
+    inherited Rectangle2: TRectangle
+      inherited Rectangle3: TRectangle
+        inherited Rectangle4: TRectangle
+          Position.X = -37.000000000000000000
+        end
+        inherited Image9: TImage
+          MultiResBitmap.Height = 32
+          MultiResBitmap.Width = 32
+          inherited Image10: TImage
+            MultiResBitmap.Height = 32
+            MultiResBitmap.Width = 32
+            inherited Image11: TImage
+              MultiResBitmap.Height = 32
+              MultiResBitmap.Width = 32
+            end
+          end
+        end
+        inherited Image12: TImage
+          MultiResBitmap.Height = 16
+          MultiResBitmap.Width = 16
+          inherited Image13: TImage
+            MultiResBitmap.Height = 16
+            MultiResBitmap.Width = 16
+            inherited Image14: TImage
+              MultiResBitmap.Height = 16
+              MultiResBitmap.Width = 16
+            end
+            inherited Image16: TImage
+              MultiResBitmap.Height = 20
+              MultiResBitmap.Width = 16
+              inherited Image17: TImage
+                MultiResBitmap.Height = 16
+                MultiResBitmap.Width = 16
+              end
+            end
+          end
+        end
+        inherited Image15: TImage
+          MultiResBitmap.Height = 16
+          MultiResBitmap.Width = 16
+        end
+        inherited Label3: TLabel
+          TextSettings.Font.StyleExt = {00060000000000000004000000}
+          inherited Label4: TLabel
+            TextSettings.Font.StyleExt = {00060000000000000004000000}
+            TabOrder = 5
+            inherited Label5: TLabel
+              TextSettings.Font.StyleExt = {00060000000000000004000000}
+            end
+          end
+          inherited Label6: TLabel
+            TextSettings.Font.StyleExt = {00060000000000000004000000}
+            inherited Label7: TLabel
+              TextSettings.Font.StyleExt = {00060000000000000004000000}
+              TabOrder = 5
+              inherited Label8: TLabel
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+                TabOrder = 5
+              end
+              inherited Label9: TLabel
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+              end
+            end
+            inherited Label10: TLabel
+              TextSettings.Font.StyleExt = {00060000000000000004000000}
+              inherited Label11: TLabel
+                TextSettings.Font.StyleExt = {00060000000000000004000000}
+                inherited Label12: TLabel
+                  TextSettings.Font.StyleExt = {00060000000000000004000000}
+                end
+              end
+            end
+          end
+        end
+      end
+    end
+    inherited Image5: TImage
+      MultiResBitmap.Height = 28
+      MultiResBitmap.Width = 40
+    end
+    inherited Image6: TImage
+      MultiResBitmap.Height = 30
+      MultiResBitmap.Width = 25
+    end
+    inherited Image7: TImage
+      MultiResBitmap.Height = 22
+      MultiResBitmap.Width = 20
+    end
+    inherited Image8: TImage
+      MultiResBitmap.Height = 21
+      MultiResBitmap.Width = 20
+    end
+    inherited Label1: TLabel
+      TextSettings.Font.StyleExt = {00070000000000000004000000}
+    end
+    inherited Label2: TLabel
+      TextSettings.Font.StyleExt = {00060000000000000004000000}
+    end
+  end
+end

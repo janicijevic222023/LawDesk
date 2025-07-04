@@ -1,0 +1,31 @@
+inherited FLogin_Moto360: TFLogin_Moto360
+  ClientHeight = 216
+  ClientWidth = 240
+  DesignerMasterStyle = 3
+  inherited Rectangle1: TRectangle
+    Size.Width = 240.000000000000000000
+    Size.Height = 216.000000000000000000
+    inherited Rectangle2: TRectangle
+      inherited edtKorisnik: TEdit
+        Size.Height = 32.000000000000000000
+        inherited edtLozinka: TEdit
+          Position.X = -28.000000000000000000
+        end
+      end
+      inherited Label3: TLabel
+        TextSettings.Font.StyleExt = {00020000000000000004000000}
+      end
+      inherited Label4: TLabel
+        TextSettings.Font.StyleExt = {00060000000000000004000000}
+      end
+      inherited Image1: TImage
+        MultiResBitmap.Height = 133
+        MultiResBitmap.Width = 217
+      end
+      inherited imgBack1: TImage
+        MultiResBitmap.Height = 42
+        MultiResBitmap.Width = 43
+      end
+    end
+  end
+end
